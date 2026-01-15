@@ -34,3 +34,6 @@ and real-world data.
 Navigate to the project directory and run:
 ```bash
 python Expenses.py
+
+## Author
+Vashundthera
