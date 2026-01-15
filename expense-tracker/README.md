@@ -29,10 +29,8 @@ and real-world data.
 
 ## File Structure
 - `expanses.txt` → Stores expense records
-- `main.py` → Contains the application logic
-
+- 
 ## How to Run
 Navigate to the project directory and run:
 ```bash
 python Expenses.py
-python main.py
