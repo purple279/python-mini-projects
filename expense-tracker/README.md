@@ -1,26 +1,38 @@
 # Expense Tracker
 
 ## Description
-The Expense Tracker is a Python command-line application that helps users
-record, manage, and track their daily expenses. It uses Object-Oriented
-Programming concepts and file handling to store data persistently.
+The Expense Tracker is a Python-based command-line application that allows
+users to record and view daily expenses. This project follows a procedural
+programming approach using functions and file handling for persistent data
+storage.
+
+It helps users understand basic Python concepts and how to work with files
+and real-world data.
 
 ## Features
-- Add new expenses
-- View all expenses
-- Update existing expenses
-- Delete expenses
-- Store data using file handling
+- Add daily expenses with date, amount, and category
+- View all recorded expenses
+- Automatically calculate total expenses
+- Persistent storage using a text file
 - Menu-driven command-line interface
 
+## Programming Style
+- Procedural Programming (Function-based)
+- No Object-Oriented Programming (OOP) used in this version
+
 ## Concepts Used
-- Python Basics
-- Object-Oriented Programming (OOP)
-- Dictionaries and Lists
+- Python Functions
 - File Handling
+- Loops and Conditional Statements
 - Exception Handling
+- datetime module
+
+## File Structure
+- `expanses.txt` → Stores expense records
+- `main.py` → Contains the application logic
 
 ## How to Run
-Navigate to the project folder and run:
+Navigate to the project directory and run:
 ```bash
+python Expenses.py
 python main.py
