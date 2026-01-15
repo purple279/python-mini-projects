@@ -29,7 +29,7 @@ and real-world data.
 
 ## File Structure
 - `expanses.txt` → Stores expense records
-- 
+ 
 ## How to Run
 Navigate to the project directory and run:
 ```bash
