@@ -36,6 +36,4 @@ This project is implemented using Object-Oriented Programming principles.
 ## How to Run
 Navigate to the project directory and run:
 ```bash
-python main.py
-```bash
-python main.py
+python Student.py
