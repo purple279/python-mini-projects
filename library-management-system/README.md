@@ -24,3 +24,6 @@ file handling in Python.
 Navigate to the project folder and run:
 ```bash
 python library_management_system.py
+
+## Author
+Vashundthera
