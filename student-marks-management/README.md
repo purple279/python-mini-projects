@@ -37,3 +37,6 @@ This project is implemented using Object-Oriented Programming principles.
 Navigate to the project directory and run:
 ```bash
 python Student.py
+
+## Author
+Vashundthera
