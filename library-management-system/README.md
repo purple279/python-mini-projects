@@ -23,7 +23,4 @@ file handling in Python.
 ## How to Run
 Navigate to the project folder and run:
 ```bash
-python main.py
-Navigate to the project folder and run:
-```bash
-python main.py
+python library_management_system.py
